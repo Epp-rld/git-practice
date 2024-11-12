@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello people!");
         String text = "New world";
         System.out.println(text);
+
     }
 }
