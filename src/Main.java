@@ -4,5 +4,7 @@ public class Main {
         String text = "New world";
         System.out.println(text);
 
+        int number = 10;
+        System.out.println(number);
     }
 }
